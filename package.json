@@ -1,0 +1,23 @@
+{
+  "name": "mapzen-whosonfirst",
+  "version": "0.1.0",
+  "description": "JavaScript libraries for working with Who's On First data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whosonfirst/js-mapzen-whosonfirst.git"
+  },
+  "keywords": [
+    "mapzen",
+    "whosonfirst"
+  ],
+  "author": "Mapzen",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/whosonfirst/js-mapzen-whosonfirst/issues"
+  },
+  "homepage": "https://github.com/whosonfirst/js-mapzen-whosonfirst#readme"
+}
